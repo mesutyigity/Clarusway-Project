@@ -10,3 +10,31 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
+.background2 {
+  height: 100vh;
+  background-image: url(./img/bg2.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.background3 {
+  height: 100vh;
+  background-image: url(./img/bg3.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.background4 {
+  height: 100vh;
+  background-image: url(./img/bg4.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.background5 {
+  height: 100vh;
+  background-image: url(./img/bg1.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
