@@ -9,32 +9,43 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  opacity: 0.7;
 }
 .background2 {
-  height: 100vh;
+  height: 80vh;
   background-image: url(./img/bg2.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  opacity: 0.7;
 }
 .background3 {
-  height: 100vh;
+  height: 80vh;
   background-image: url(./img/bg3.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  opacity: 0.7;
 }
 .background4 {
-  height: 100vh;
+  height: 80vh;
   background-image: url(./img/bg4.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  opacity: 0.7;
 }
 .background5 {
-  height: 100vh;
+  height: 80vh;
   background-image: url(./img/bg1.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  opacity: 0.7;
+}
+.background1 div {
+  font-size: 32px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
 }
